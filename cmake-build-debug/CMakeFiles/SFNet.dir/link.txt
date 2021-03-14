@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SFNet.dir/main.cpp.o  -o SFNet 

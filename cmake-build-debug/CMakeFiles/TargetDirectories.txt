@@ -1,0 +1,3 @@
+/home/source/CLionProjects/SFNet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/source/CLionProjects/SFNet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/source/CLionProjects/SFNet/cmake-build-debug/CMakeFiles/SFNet.dir
